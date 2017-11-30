@@ -1,0 +1,21 @@
+{
+  "name": "magnificolobo",
+  "version": "2.0.0",
+  "description": "desarrollo web de magnifico",
+  "main": "index.js",
+  "author": "Mn",
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/MariesNavarro/magnificoHTML/issues"
+  },
+  "homepage": "https://github.com/MariesNavarro/magnificoHTML#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-cssmin": "^2.0.0",
+    "grunt-contrib-htmlmin": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-uglify": "^2.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
